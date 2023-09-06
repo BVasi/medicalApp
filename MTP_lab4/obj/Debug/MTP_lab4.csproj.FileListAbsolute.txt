@@ -1,0 +1,11 @@
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\bin\Debug\MTP_lab4.exe.config
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\bin\Debug\MTP_lab4.exe
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\bin\Debug\MTP_lab4.pdb
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\obj\Debug\MTP_lab4.csproj.AssemblyReference.cache
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\obj\Debug\MTP_lab4.Form1.resources
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\obj\Debug\MTP_lab4.Properties.Resources.resources
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\obj\Debug\MTP_lab4.csproj.GenerateResource.cache
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\obj\Debug\MTP_lab4.csproj.CoreCompileInputs.cache
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\obj\Debug\MTP_lab4.exe
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\obj\Debug\MTP_lab4.pdb
+C:\Users\Vasi\source\repos\MTP_lab4\MTP_lab4\obj\Debug\MTP_lab4.addRadiographyForm.resources
